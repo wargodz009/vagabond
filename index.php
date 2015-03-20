@@ -1,18 +1,26 @@
 <?php include 'header.php'; ?>
 						<div id="my_dropcapwidget-2"> 
 							<div class="dropcap-box line-bot">
-								<div class="dropcap">1</div> 
+								<div class="dropcap"></div> 
 								<div class="extra-wrap">
-									<h4>Modalities</h4>
-									<p>Full body massage - P 250</p> 
-									<p>Bentosa with full body massage - P 450</p> 
-									<p>Xiamen style foot reflexology - 300</p> 
-									<p>Body scrub 450</p>
-									<p>Ear candling - P 350</p> 
+									<h4>Modalities Offered:</h4>
+									<p>Full Body Massage (60 minutes) ……………………………….250</p> 
+									<p>Ventosa w/ Body Massage (90 minutes)……………………500</p> 
+									<p>Body Scrub w/ Body Massage (120 minutes)…………….600</p> 
+									<p>Foot Reflexology & Body Massage (90 minutes)……….450</p>
+									<p>Foot Spa & Foot Reflexology (90 minutes)………………...400</p> 
+									<p>Ear Candling & Body Massage (60 minutes)……………….350</p> 
+									<p>Foot Spa (60 minutes)………………………………………………..250</p> 
+									<p>Pinoy HIlot (60 minutes)…………………………………………….350</p> 
+									<p>Pre natal Massage (60 minutes)…………………………………350</p> 
+									<p>Post natal Massage (60 minutes)………………………….……350</p> 
+									<p>Kid Massage (30 minutes)…………………………………………..150</p> 
 								</div>
+									Notice: We require at least two hours of our services in some areas.
+									Price changes depending on time and location.
 							</div>
 						</div>
-						<div id="my_dropcapwidget-4"> 
+						<!--div id="my_dropcapwidget-4"> 
 							<div class="dropcap-box line-bot">
 								<div class="dropcap">2</div> 
 								<div class="extra-wrap">
@@ -42,5 +50,5 @@
 								<p>We also cater spa parties and events, feel free to ask questions. </p>
 								</div>
 							</div>
-						</div> 
+						</div--> 
 <?php include 'footer.php'; ?>

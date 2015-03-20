@@ -291,6 +291,7 @@ body.home #header {height:127px;}
 	opacity:0.8; /* Overridden by captionOpacity setting */
 	width:100%;
 	z-index:89;
+	font-size: 19px;
 }
 .nivo-caption .nivo-caption-inner {
 	padding:0;

@@ -4,19 +4,19 @@
 							<h3>Popular services</h3>
 							<ul class="xoxo blogroll">
 								<li>
-									<a href="#">Full body massage</a>
+									<a href="#">Pasay </a>
 								</li>
 								<li>
-									<a href="#">bentosa w/ full body massage</a>
+									<a href="#">Manila</a>
 								</li>
-								<li class="indent-bot">
-									<a href="#">xiamen style foot reflexology</a>
-								</li>
-								<li>
-									<a href="#">body scrub</a>
+								<li class="">
+									<a href="#">Makati</a>
 								</li>
 								<li>
-									<a href="#">ear candling</a>
+									<a href="#">Taguig</a>
+								</li>
+								<li>
+									<a href="#">Parañaque</a>
 								</li>
 							</ul>
 						</div>

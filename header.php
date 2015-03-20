@@ -7,7 +7,7 @@ $path_details = pathinfo( $file );
 <html dir="ltr" lang="en-US" class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>..:: Massage & Spa ::..</title>
+<title>..:: Massage::..</title>
 <meta name="description" content="vagabond wellness 24/7 home, hotel, condo massage and spa, we also cater spa party, manicure and pedicure">
 <meta name="keywords" content="vagabond, wellness, 24/7 home, hotel, condomassage, spa, manicure, pedicure, on call, bentosa, xiamen">
 <meta name="description" content=" | ">
@@ -53,7 +53,6 @@ $path_details = pathinfo( $file );
 			var as = audiojs.createAll();
 		});
 		$(function(){
-			$('.widget.popular ul li:nth-child(3n)').addClass('indent-bot');
 			$('.sf-menu > li:last-child').addClass('last');
 			$('.sf-menu > li').each(function(){
 				  currindex = $(this).index();
@@ -137,18 +136,18 @@ $path_details = pathinfo( $file );
 					<div class="grid_17">
 						<section id="slider-wrapper">
 							<div id="slider" class="nivoSlider">
-								<img src="<?=$BASE_URL;?>files/images/slide-1.jpg" alt="" title="sliderCaption1" style="display: none;">
-								<img src="<?=$BASE_URL;?>files/images/slide-2.jpg" alt="" title="sliderCaption2" style="display: none;">
-								<img src="<?=$BASE_URL;?>files/images/slide-3.jpg" alt="" title="sliderCaption3" style="display: none;">
-								<img src="<?=$BASE_URL;?>files/images/slide-4.jpg" alt="" title="sliderCaption4" style="display: none;">
+								<img src="<?=$BASE_URL;?>files/images/slide-1.jpg" alt="" title="Relax, Rejuvinate and Free Your Body and Mind From Muscle Pains." style="display: none;">
+								<img src="<?=$BASE_URL;?>files/images/slide-2.jpg" alt="" title="Relax, Rejuvinate and Free Your Body and Mind From Muscle Pains." style="display: none;">
+								<img src="<?=$BASE_URL;?>files/images/slide-3.jpg" alt="" title="Relax, Rejuvinate and Free Your Body and Mind From Muscle Pains." style="display: none;">
+								<img src="<?=$BASE_URL;?>files/images/slide-4.jpg" alt="" title="Relax, Rejuvinate and Free Your Body and Mind From Muscle Pains." style="display: none;">
 							</div>
 						</section> 
 					</div>
 					<div class="grid_7">
 						<div id="my_requestquotewidget-3"> 
 							<div class="top-box">
-								<img src="<?=$BASE_URL;?>files/images/banner.png" alt="" class="banner-icon">
-								<a href="#" class="button">more</a>
+								<img src="<?=$BASE_URL;?>files/images/banner-with-text.png" alt="" class="banner-icon">
+								<!--a href="#" class="button">more</a-->
 							</div>
 						</div> 
 					</div>
@@ -158,4 +157,5 @@ $path_details = pathinfo( $file );
 			<div class="container_24 primary_content_wrap clearfix">
 				<div class="clearfix">
 					<div class="grid_17">
-						<h1>Vagabond Wellness Massage & Spa</h1> <br/>
+						<h1>Vagabond Wellness Massage</h1> <br/>
+							<h2>We are skilled and well trained Male and Female Massage Therapists whose aim is to give our clients the best massage experience for Health and Wellness sake…</h2>
